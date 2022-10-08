@@ -1,7 +1,7 @@
 import React, { ReactNode } from "react"
 
 // Styles
-import "./styles.css"
+import "./Card.styles.css"
 
 interface ICardProps {
   theme: string
