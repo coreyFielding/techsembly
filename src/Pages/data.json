@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "heading": "Assembly",
+      "description": "Go global. Launch new storefronts in seconds. Everything you need to bring your products to the world.",
+      "price": "Start at $500",
+      "cta": {
+        "buttonText": "Get started",
+        "details": [
+          "2 Storefronts",
+          "5 Vendors",
+          "Add more storefronts and vendors as you grow"
+        ]
+      },
+      "fee": "25%",
+      "addons": [
+        {
+          "text": "1x additional storefront",
+          "price": "$250"
+        },
+        {
+          "text": "10x additional vendors",
+          "price": "$250"
+        },
+        {
+          "text": "30x additional vendors",
+          "price": "$250"
+        },
+        {
+          "text": "100x additional vendors",
+          "price": "$250"
+        },
+        {
+          "text": "500x additional storefronts",
+          "price": "$250"
+        },
+        {
+          "text": "1000x additional storefronts",
+          "price": "$250"
+        }
+      ],
+      "benefits": [
+        "Multilingual website builder",
+        "Mobile eCommerce",
+        "Frictionless Progressive Web App",
+        "Multi-vendor Marketplace Solution",
+        "Multiple Base Currencies",
+        "Complex Personalisation",
+        "Store specific inventory & logistics",
+        "Multiple Payment Gateways (Ayden, Stripe, PayPal)"
+      ],
+      "theme": "blue"
+    },
+    {
+      "heading": "Enterprise",
+      "description": "For businesses with advanced requirements and customisation needs.",
+      "price": "Customised",
+      "cta": {
+        "buttonText": "Let's chat",
+        "details": ["Unlimited storefronts", "Unlimited Vendors"]
+      },
+      "fee": "*Negotiable",
+      "additionalInfo": {
+        "pillText": "New",
+        "heading": "Launch across multiple markets",
+        "description": "Launch across multiple markets Release your store in multiple locations across teams in seconds Learn more"
+      },
+      "benefits": [
+        "Headless eCommerce",
+        "Multi-store",
+        "Multi-vendor Marketplace Solution",
+        "Mobile eCommerce",
+        "Frictionless Progressive Web App",
+        "Multiple Base Currencies",
+        "Complex Personalisation",
+        "Store specific inventory & logistics",
+        "Multiple Payment Gateways",
+        "Split Marketplace integration",
+        "Booking Engine"
+      ],
+      "theme": "dark"
+    }
+  ]
+}

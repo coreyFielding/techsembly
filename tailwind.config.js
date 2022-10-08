@@ -1,0 +1,57 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {
+      fontFamily: {
+        circularBold: ["CircularBold", "sans-serif"],
+        circularMedium: ["CircularMedium", "sans-serif"],
+        circularLight: ["CircularLight", "sans-serif"],
+        circularItalic: ["CircularItalic", "sans-serif"],
+      },
+    },
+    colors: {
+      white: "#fff",
+      bgWhite: "#e5e5e5",
+      ctaBlue: {
+        100: "#0069d9",
+        200: "#005bbd",
+      },
+      dark: "#0a1b2b",
+      purple: "#c7abf8",
+      grey: "#7d8089",
+      green: "#20c08d",
+    },
+    screens: {
+      xxs: "280px",
+      xs: "360px",
+      sm: "576px",
+      md: "768px",
+      lg: "1024px",
+      xl: "1280px",
+      "1.5xl": "1400px",
+      "2xl": "1500px",
+      "3xl": "2000px",
+    },
+    fontSize: {
+      0: "0",
+      "2xs": ".65rem",
+      xs: ".75rem",
+      sm: ".875rem",
+      base: "0.9375rem",
+      lg: "1.125rem",
+      xl: "1.25rem",
+      "1.5xl": "1.3125em",
+      "2xl": "1.41rem",
+      "3xl": "1.875rem",
+      "4xl": "2.25rem",
+      "5xl": "3rem",
+      "6xl": "4rem",
+      "6.5xl": "5rem",
+      "7xl": "8rem",
+      "9xl": "11rem",
+      "10xl": "12rem",
+    },
+  },
+  plugins: [],
+}
